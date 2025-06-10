@@ -116,4 +116,4 @@ else:
                     st.markdown(f"<div class='other-city'>🏙️ {city}: {latest_other['temp']} °C</div>", unsafe_allow_html=True)
 
         st.markdown("---")
-        st.markdown("<div class='footer'>Made by Museerah, Saad, Anas, and Hamdaan ❤️</div>", unsafe_allow_html=True)
+        st.markdown("<div class='footer'>Made by Museerah. ❤️</div>", unsafe_allow_html=True)
